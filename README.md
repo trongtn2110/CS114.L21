@@ -1,5 +1,5 @@
 # CS114.L21
-## Thành viên:
+# Thành viên:
 | MSSV      | Họ và Tên          |
 | ------------- |:-------------:|
 | 19522410      | Nguyễn Thành Trọng |
